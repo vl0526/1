@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Grandmaster Chess",
+  "description": "Challenge the super grandmaster Gemini, an AI with a 2300 ELO rating, in a futuristic game of chess. Features stunning visuals, animations, and strategic gameplay powered by the Gemini API.",
+  "requestFramePermissions": []
+}
